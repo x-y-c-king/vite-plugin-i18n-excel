@@ -1,0 +1,23 @@
+{
+  "home_title": "Lễ Tình Nhân",
+  "homt_title_slot": "Valen",
+  "check_in_success": "Đăng ký thành công",
+  "record_ticket": "vé quay *{num}",
+  "record_gold": "Vàng x {num}",
+  "month_array": [
+    "Thg 1",
+    "Thg 2",
+    "Thg 3",
+    "Thg 4",
+    "Thg 5",
+    "Thg 6",
+    "Thg 7",
+    "Thg 8",
+    "Thg 9",
+    "Thg 10",
+    "Thg 11",
+    "Thg 12"
+  ],
+  "record_loading": "Đang tải...",
+  "record_finished": "Không còn nội dung nào nữa."
+}

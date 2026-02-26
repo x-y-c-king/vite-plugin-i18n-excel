@@ -1,0 +1,23 @@
+{
+  "home_title": "Saint-Valentin",
+  "homt_title_slot": "StVal",
+  "check_in_success": "Enr. réussi",
+  "record_ticket": "Tickets *{num}",
+  "record_gold": "Or x {num}",
+  "month_array": [
+    "Jan",
+    "Fév",
+    "Mar",
+    "Avr",
+    "Mai",
+    "Juin",
+    "Juil",
+    "Août",
+    "Sept",
+    "Oct",
+    "Nov",
+    "Déc"
+  ],
+  "record_loading": "Chargement...",
+  "record_finished": "Plus de contenu."
+}

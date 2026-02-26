@@ -1,0 +1,23 @@
+{
+  "home_title": "Dia de São Valentim",
+  "homt_title_slot": "Dia V",
+  "check_in_success": "Check-in feito",
+  "record_ticket": "Cupons *{num}",
+  "record_gold": "Ouro x {num}",
+  "month_array": [
+    "Jan",
+    "Fev",
+    "Mar",
+    "Abr",
+    "Mai",
+    "Jun",
+    "Jul",
+    "Ago",
+    "Set",
+    "Out",
+    "Nov",
+    "Dez"
+  ],
+  "record_loading": "Carregando...",
+  "record_finished": "Nenhum conteúdo adicional."
+}

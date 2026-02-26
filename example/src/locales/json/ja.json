@@ -1,0 +1,23 @@
+{
+  "home_title": "バレンタインデー",
+  "homt_title_slot": "V-Day",
+  "check_in_success": "チェックイン成功",
+  "record_ticket": "抽選券 *{num}",
+  "record_gold": "ゴールド x {num}",
+  "month_array": [
+    "1月",
+    "2月",
+    "3月",
+    "4月",
+    "5月",
+    "6月",
+    "7月",
+    "8月",
+    "9月",
+    "10月",
+    "11月",
+    "12月"
+  ],
+  "record_loading": "読み込み中...",
+  "record_finished": "これ以上コンテンツはありません。"
+}

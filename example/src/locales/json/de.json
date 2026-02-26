@@ -1,0 +1,23 @@
+{
+  "home_title": "Valentinstag",
+  "homt_title_slot": "V-Tag",
+  "check_in_success": "Check-in erfolgt",
+  "record_ticket": "Tickets *{num}",
+  "record_gold": "Gold x {num}",
+  "month_array": [
+    "Jan",
+    "Feb",
+    "Mär",
+    "Aprile",
+    "Mai",
+    "Jun.",
+    "Juli",
+    "Auge",
+    "Sept",
+    "Okt",
+    "Nov",
+    "Dez"
+  ],
+  "record_loading": "Wird geladen...",
+  "record_finished": "Kein weiterer Inhalt."
+}

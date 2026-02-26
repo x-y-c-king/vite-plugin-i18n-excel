@@ -1,0 +1,23 @@
+{
+  "home_title": "밸런타인데이",
+  "homt_title_slot": "발렌타인",
+  "check_in_success": "체크인 성공",
+  "record_ticket": "뽑기권 *{num}",
+  "record_gold": "골드 x {num}",
+  "month_array": [
+    "1월",
+    "2월",
+    "3월",
+    "4월",
+    "5월",
+    "6월",
+    "7월",
+    "8월",
+    "9월",
+    "10월",
+    "11월",
+    "12월"
+  ],
+  "record_loading": "로딩 중...",
+  "record_finished": "더 이상 내용이 없습니다."
+}

@@ -1,0 +1,23 @@
+{
+  "home_title": "情人节",
+  "homt_title_slot": "情人节（短）",
+  "check_in_success": "签到成功",
+  "record_ticket": "抽奖券 *{num}",
+  "record_gold": "金币 *{num}",
+  "month_array": [
+    "1月",
+    "2月",
+    "3月",
+    "4月",
+    "5月",
+    "6月",
+    "7月",
+    "8月",
+    "9月",
+    "10月",
+    "11月",
+    "12月"
+  ],
+  "record_loading": "加载中...",
+  "record_finished": "已经到底了~"
+}

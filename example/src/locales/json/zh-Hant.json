@@ -1,0 +1,23 @@
+{
+  "home_title": "情人節",
+  "homt_title_slot": "情人節",
+  "check_in_success": "簽到成功",
+  "record_ticket": "抽獎券 *{num}",
+  "record_gold": "金幣 x {num}",
+  "month_array": [
+    "1月",
+    "2月",
+    "3月",
+    "4月",
+    "5月",
+    "6月",
+    "7月",
+    "8月",
+    "9月",
+    "10月",
+    "11月",
+    "12月"
+  ],
+  "record_loading": "載入中...",
+  "record_finished": "已經到底了~"
+}

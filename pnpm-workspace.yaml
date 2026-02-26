@@ -1,0 +1,7 @@
+packages:
+  - example
+
+ignoredBuiltDependencies:
+  - '@parcel/watcher'
+  - core-js
+  - esbuild

@@ -1,0 +1,23 @@
+{
+  "home_title": "Día del Amor",
+  "homt_title_slot": "S.Val",
+  "check_in_success": "Registro exitoso",
+  "record_ticket": "Cupones *{num}",
+  "record_gold": "Oro x {num}",
+  "month_array": [
+    "Ene",
+    "Feb",
+    "Mar",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Ago",
+    "Sept",
+    "​Oct",
+    "Nov",
+    "Dic"
+  ],
+  "record_loading": "Cargando...",
+  "record_finished": "No hay más contenido."
+}

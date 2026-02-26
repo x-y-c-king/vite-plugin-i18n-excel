@@ -1,0 +1,23 @@
+{
+  "home_title": "Hari Kasih Sayang",
+  "homt_title_slot": "V-Day",
+  "check_in_success": "Check-in berhasil",
+  "record_ticket": "Tiket undian *{num}",
+  "record_gold": "Emas x {num}",
+  "month_array": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Mei",
+    "Jun",
+    "Juli",
+    "Agt",
+    "Sept",
+    "Okt",
+    "Nov",
+    "Des"
+  ],
+  "record_loading": "Memuat...",
+  "record_finished": "Tidak ada lagi konten."
+}
