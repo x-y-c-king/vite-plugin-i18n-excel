@@ -1,5 +1,6 @@
 import type { Plugin } from "vite";
 import { jsonToExcel, type JsonToExcelOptions } from './JsonToExcel';
+import { deepMerge } from './deepMerge';
 export interface I18nExcelOptions {
     /**
      * Excel 文件路径（相对于项目根目录）
@@ -55,5 +56,5 @@ export declare function parseExcel(excelPath: string, options: Pick<I18nExcelOpt
  * Vite 插件主体
  */
 export declare function i18nExcelPlugin(options?: I18nExcelOptions): Plugin;
-export { jsonToExcel, type JsonToExcelOptions };
+export { jsonToExcel, type JsonToExcelOptions, deepMerge };
 export default i18nExcelPlugin;
