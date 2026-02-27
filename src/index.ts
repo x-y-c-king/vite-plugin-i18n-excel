@@ -1,8 +1,11 @@
+import type { Plugin } from "vite"
+
 import * as fs from "fs"
 import * as path from "path"
 import * as XLSX from "xlsx"
-import type { Plugin } from "vite"
+
 import { jsonToExcel, type JsonToExcelOptions } from './JsonToExcel'
+import { deepMerge } from './deepMerge'
 
 export interface I18nExcelOptions {
 	/**
@@ -284,5 +287,5 @@ export function i18nExcelPlugin(options: I18nExcelOptions = {}): Plugin {
 	}
 }
 
-export { jsonToExcel, type JsonToExcelOptions }
+export { jsonToExcel, type JsonToExcelOptions, deepMerge }
 export default i18nExcelPlugin
